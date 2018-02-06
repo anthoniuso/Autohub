@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485403865960",
+    "firebase_url": "https://autohub-1372c.firebaseio.com",
+    "project_id": "autohub-1372c",
+    "storage_bucket": "autohub-1372c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485403865960:android:a33c1790bac5094f",
+        "android_client_info": {
+          "package_name": "com.warion.autohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485403865960-9t0v4ot985u6t5ecq85e5org65at4jsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAwGFJA9-JuAvVBGGIKCHsAtVQZ7fSVUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
